@@ -3,11 +3,11 @@ A list of accessibility resources software developers
 
 ## Index
 
-* [Community](#Community)
-* [Software Tools](#Software Tools)
-* [Developer Guidelines](# Developer Guidelines)
-* [Standards](#Standards)
-* [Technical Details](#Technical Details)
+* [Community](#community)
+* [Software Tools](#software-tools)
+* [Developer Guidelines](#developer-guidelines)
+* [Standards](#standards)
+* [Technical Details](#technical-details)
 
 ## Community
 
