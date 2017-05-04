@@ -38,7 +38,7 @@ A list of accessibility resources for software developers
 ### Chrome
 
 * [Chrome Accessibility Architecture Overview](https://chromium.googlesource.com/chromium/src/+/lkgr/docs/accessibility/overview.md)
-* [chrome://accessibility/](chrome://accessibility/) - chrome accessibility settings page
+* [chrome://accessibility/](chrome://accessibility/) - chrome internal accessibility settings page
 * [Chromium Accessibility Forum](https://groups.google.com/a/chromium.org/forum/#!forum/chromium-accessibility)
 
 ### ChromeVox
