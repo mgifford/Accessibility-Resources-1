@@ -1,5 +1,5 @@
 # Accessibility Resources
-A list of resources about accessibility technology
+A list of accessibility resources software developers
 
 ## Index
 
