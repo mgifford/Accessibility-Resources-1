@@ -8,10 +8,13 @@ A list of accessibility resources for software developers
 * [Developer Guidelines](#developer-guidelines)
 * [Standards](#standards)
 * [Technical Details](#technical-details)
+* [Other Lists](#other-lists)
 
 ## Community
 
 * [WebAIM](http://webaim.org/)
+* [Stack Exchange](https://ux.stackexchange.com/questions/tagged/accessibility)
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/accessibility)
 
 ## Software Tools
 
@@ -31,3 +34,5 @@ A list of accessibility resources for software developers
 ## Standards
 
 ## Technical Details
+
+## Other Lists
