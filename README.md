@@ -55,3 +55,4 @@ A list of accessibility resources for software developers
 ## Other Lists
 
 * [Google Accessibility Products](https://www.google.com/accessibility/products-features.html)
+* [CivicActions Open Source Accessibility Guides](https://accessibility.civicactions.com/)
